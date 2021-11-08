@@ -9,7 +9,7 @@ This application loads data from an Excel file to generate a diagram/graph that 
 [ License ](#license)
 
 ## Video Demo  
-[![Graph XL Video](![image](https://user-images.githubusercontent.com/48220157/140672293-80d47233-2c84-48c7-a92a-bd8e4137d620.png))](https://youtu.be/9j0ZJu2rmgg)
+[![Graph XL Video](![image](https://i9.ytimg.com/vi/9j0ZJu2rmgg/mq1.jpg?sqp=CPSGoowG&rs=AOn4CLA22VFcsmn2ib_DQS5BRIupN8ap5Q))](https://youtu.be/9j0ZJu2rmgg)
 
 ## Graph XL Design
 Although Graph XL is mainly a Javascript application it is launched as a Flask app.\
